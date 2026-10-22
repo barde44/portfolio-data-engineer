@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "category": "Software Development",
+        "date_added": "2026-10-20T14:44:14.937406"
+    },
+    {
+        "title": "Data Engineering with Python",
+        "author": "Paul Crickard",
+        "category": "Data Engineering",
+        "date_added": "2026-10-20T14:49:33.740440"
+    },
+    {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "category": "Distributed Systems",
+        "date_added": "2026-10-20T14:49:33.740947"
+    },
+    {
+        "title": "Fundamentals of Data Engineering",
+        "author": "Joe Reis and Matt Housley",
+        "category": "Data Engineering",
+        "date_added": "2026-10-20T14:49:33.741510"
+    }
+]
