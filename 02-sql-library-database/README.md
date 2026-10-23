@@ -58,27 +58,27 @@ Une bibliotheque universitaire a besoin d'un systeme pour gerer son catalogue de
 
 ### Dashboard
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/dashboard.png)
 *KPIs globaux (20 livres, 53 exemplaires, 15 auteurs, 10 lecteurs, 28 emprunts, 9 en cours, 2 en retard) et graphiques de repartition.*
 
 ### Catalogue
 
-![Catalogue](images/catalogue.jpg)
+![Catalogue](images/catalogue.png)
 *Catalogue complet avec recherche par titre ou auteur. Affiche la disponibilite en temps reel.*
 
 ### Emprunts actifs
 
-![Emprunts](images/emprunts.jpg)
+![Emprunts](images/emprunts.png)
 *Suivi des emprunts en retard (mis en evidence) et des emprunts en cours avec dates d'echeance.*
 
 ### Analytique
 
-![Analytique](images/analytique.jpg)
+![Analytique](images/analytique.png)
 *Auteurs les plus presents, lecteurs les plus actifs, duree moyenne d'emprunt par categorie et activite mensuelle.*
 
 ### Console SQL
 
-![Console SQL](images/console-sql.jpg)
+![Console SQL](images/console-sql.png)
 *Console interactive pour executer des requetes SQL personnalisees sur la base en lecture seule.*
 
 ---
@@ -146,11 +146,11 @@ CREATE INDEX idx_books_category ON books(category_id);
 ├── data/
 │   └── library.db            # Base SQLite generee
 └── images/
-    ├── dashboard.jpg
-    ├── catalogue.jpg
-    ├── emprunts.jpg
-    ├── analytique.jpg
-    └── console-sql.jpg
+    ├── dashboard.png
+    ├── catalogue.png
+    ├── emprunts.png
+    ├── analytique.png
+    └── console-sql.png
 ```
 
 ---
